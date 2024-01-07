@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/9. Configuration Management & DevOps.md",
+                "file": "ASE/Eksamen/Lectures/Lec. 2 - AGILE MANIFESTO & SCRUM.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f8188ac7ab60510",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/9. Configuration Management & DevOps.md",
+                "file": "ASE/Eksamen/Lectures/Lec. 2 - AGILE MANIFESTO & SCRUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/9. Configuration Management & DevOps.md",
+                "file": "ASE/Eksamen/Lectures/Lec. 2 - AGILE MANIFESTO & SCRUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/9. Configuration Management & DevOps.md"
+                "file": "ASE/Eksamen/Lectures/Lec. 2 - AGILE MANIFESTO & SCRUM.md"
               }
             }
           },
@@ -194,6 +195,13 @@
   },
   "active": "bd655fd9a6666f86",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240107175153.png",
+    "Attachments/Pasted image 20240107174512.png",
+    "ASE/Eksamen/Lectures/Lec. 1 - Intro.md",
+    "ASE/Eksamen/Lectures/Lec. 2 - AGILE MANIFESTO & SCRUM.md",
+    "ASE/Eksamen/2. Comparison of plan-driven & agile/2. Comparison of plan-driven & agile.md",
+    "ASE/Eksamen/1. Software Process Model/1. Software Process Model.md",
+    "ASE/Eksamen/9. Configuration Management & DevOps/9. Configuration Management & DevOps.md",
     "Attachments/Pasted image 20240106170447.png",
     "ASE/Eksamen/8. Test/8. Test.md",
     "Attachments/Pasted image 20240106170442.png",
@@ -207,15 +215,10 @@
     "Attachments/Pasted image 20240106170418.png",
     "ASE/Eksamen/3. Key features of Scrum/3. Key features of Scrum.md",
     "Attachments/Pasted image 20240106170415.png",
-    "ASE/Eksamen/2. Comparison of plan-driven & agile/2. Comparison of plan-driven & agile.md",
     "Attachments/Pasted image 20240106170412.png",
-    "ASE/Eksamen/1. Software Process Model/1. Software Process Model.md",
     "Attachments/Pasted image 20240106170408.png",
     "ASE/Eksamen/- Generalle Eksamens ting.md",
-    "Attachments/Pasted image 20240106170359.png",
-    "ASE/Eksamen/Lectures/Lec. 1 - Intro.md",
     "ASE/Eksamen/1. Software Process Model/OneNote ting (de 10 spørgsmål).md",
-    "Attachments/Pasted image 20231218191027.png",
     "ASE/Eksamen/8. Test/OneNote ting (de 10 spørgsmål).md",
     "ASE/Eksamen/Lectures",
     "CAOS/Eksamen/3. Mikro-arkitektur.md",
@@ -232,8 +235,6 @@
     "CAOS/Lectures",
     "ASE/Eksamen/7. Quality Management/OneNote ting (de 10 spørgsmål).md",
     "ASE/Eksamen/5. Product Planning & Refinement/OneNote ting (de 10 spørgsmål).md",
-    "ASE/Eksamen/4. Key features of XP/OneNote ting (de 10 spørgsmål).md",
-    "ASE/Eksamen/3. Key features of Scrum/OneNote ting (de 10 spørgsmål).md",
     "ASE/Lectures",
     "ASE/Eksamen/9. Configuration Management & DevOps",
     "ASE/Eksamen/8. Test",
