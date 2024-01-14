@@ -1,5 +1,3 @@
-
-
 ### SAFe
 ![[Pasted image 20230920083921.png]]
 for large Enterprises 

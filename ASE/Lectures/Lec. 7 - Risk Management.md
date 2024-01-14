@@ -14,7 +14,7 @@ Der er altid risici i når man skal lave noget, det gælder også software udvik
 `"If you don't activaly attack the risks, they will attack you" - Tom Gilb`
 
 ### Software risici
-* der er altid to karektistika ved en risiko:
+* der er altid to karakteristika ved en risiko:
 	* *Usikkerhed* - hvad er sandsynligheden for at det sker
 	* *Tab* - hvor meget vil vi tabe hvis det skete
 * Det er altid vigtig vurdere dem for at se hvor stor er det potentielle problem
