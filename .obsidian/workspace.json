@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/Taleark.md",
+                "file": "ASE/Eksamen/7. Quality Management/Taleark.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e414ad0b354d8a9",
+            "id": "77aa1fa5ed16c898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASE/Lectures/Lec. 9 - Quality management.md",
+                "file": "ASE/Lectures/Lec. 11 - Configuration management & DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/Taleark.md",
+                "file": "ASE/Eksamen/7. Quality Management/Taleark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/Taleark.md",
+                "file": "ASE/Eksamen/7. Quality Management/Taleark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASE/Eksamen/9. Configuration Management & DevOps/Taleark.md"
+                "file": "ASE/Eksamen/7. Quality Management/Taleark.md"
               }
             }
           },
@@ -182,11 +182,31 @@
   "active": "bd655fd9a6666f86",
   "lastOpenFiles": [
     "ASE/Eksamen/8. Test/Taleark.md",
-    "Attachments/Pasted image 20240114165803.png",
-    "Attachments/Pasted image 20240114163320.png",
-    "Attachments/Pasted image 20240114161719.png",
+    "ASE/Eksamen/8. Test/8. Test.md",
+    "ASE/Eksamen/7. Quality Management/7. Quality Management.md",
     "ASE/Eksamen/7. Quality Management/Taleark.md",
+    "ASE/Eksamen/9. Configuration Management & DevOps/Taleark.md",
+    "Attachments/Pasted image 20240116192852.png",
+    "ASE/Lectures/Lec. 11 - Configuration management & DevOps.md",
     "ASE/Lectures/Lec. 9 - Quality management.md",
+    "Attachments/Pasted image 20240116191703.png",
+    "ITV/2. White-box testing.md",
+    "Attachments/Pasted image 20240115175450.png",
+    "ITV/1. Black-box testing.md",
+    "Attachments/Pasted image 20240115174549.png",
+    "Attachments/Pasted image 20240115173134.png",
+    "Attachments/Pasted image 20240115173122.png",
+    "Attachments/Pasted image 20240115171952.png",
+    "Attachments/Pasted image 20240115171842.png",
+    "Attachments/Pasted image 20240115163409.png",
+    "Attachments/Pasted image 20240115160755.png",
+    "ITV/8. Satisfiability modulo theories, bounded-model checking, or interval analysis.md",
+    "ITV/7. Weakest precondition.md",
+    "ITV/6. Hoare logic & Hoare calculus.md",
+    "ITV/5. Model-based testing (or life-cycle testing).md",
+    "ITV/4. Data-flow testing.md",
+    "ITV/3. Mutation testing.md",
+    "ITV",
     "ASE/Lectures/Lec. 7 - Risk Management.md",
     "ASE/Eksamen/6. Risk Management/Taleark.md",
     "ASE/Eksamen/Lectures/Lec. 1 - Intro.md",
@@ -195,27 +215,9 @@
     "ASE/Eksamen/5. Product Planning & Refinement/Taleark.md",
     "ASE/Eksamen/5. Product Planning & Refinement/5. Product Planning & Refinement.md",
     "ASE/Eksamen/4. Key features of XP/Taleark.md",
-    "Attachments/Pasted image 20240112124846.png",
     "ASE/Eksamen/3. Key features of Scrum/Taleark.md",
-    "Attachments/Pasted image 20240112105231.png",
     "ASE/Eksamen/2. Comparison of plan-driven & agile/Taleark.md",
-    "ASE/Lectures/Lec. 11 - Configuration management & DevOps.md",
     "ASE/Lectures/Lec. 8 - ALKA.md",
-    "ASE/Eksamen/Lectures/Lec. 2 - AGILE MANIFESTO & SCRUM.md",
-    "ASE/Eksamen/3. Key features of Scrum/3. Key features of Scrum.md",
-    "ASE/Eksamen/3. Key features of Scrum/OneNote ting (de 10 spørgsmål).md",
-    "ASE/Eksamen/1. Software Process Model/Taleark.md",
-    "Attachments/Pasted image 20240111125935.png",
-    "Attachments/Pasted image 20240111125853.png",
-    "Attachments/Pasted image 20240111124512.png",
-    "ASE/Eksamen/1. Software Process Model/1. Software Process Model.md",
-    "ASE/Eksamen/1. Software Process Model/OneNote ting (de 10 spørgsmål).md",
-    "ASE/Eksamen/2. Comparison of plan-driven & agile/2. Comparison of plan-driven & agile.md",
-    "Attachments/Pasted image 20240108144431.png",
-    "Attachments/Pasted image 20240108144403.png",
-    "ASE/Eksamen/9. Configuration Management & DevOps/9. Configuration Management & DevOps.md",
-    "ASE/Eksamen/8. Test/8. Test.md",
-    "ASE/Eksamen/7. Quality Management/7. Quality Management.md",
     "ASE/Eksamen/Lectures",
     "DS/Lectures",
     "Security/Lectures",
@@ -225,7 +227,6 @@
     "ASE/Eksamen/8. Test",
     "ASE/Eksamen/7. Quality Management",
     "ASE/Eksamen/6. Risk Management",
-    "ASE/Eksamen/5. Product Planning & Refinement",
     "Security/Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
