@@ -5,16 +5,22 @@
 	* kvalitet af Produktet, altså gør det hvad det skal
 	* kvalitet af Processen, af selve projektet 
 	* Expectation/forventning, hvad forventer folk af produktet  
+
 * Disse tre typer af kvalitet danner så forventninger til 
-	* funktionaliteten af produktet via fx user stories
-	* og de ikke funktionelle krav, hvilket er kvalitets attributter(tabelen)![[Pasted image 20231018091553.png]]
-	* og hvordan produktet er lavet eller hvordan man sikre kvaliteten af produktet (processen)
+	* de funktionelle krav af hvad produktet skal kunne 
+		* via fx user stories eller krav specifikation 
+	* og de ikke funktionelle krav, hvilket er kvalitets attributter
+		* hvilket er efficiency, security, usability m.m....
+		* man kan dog ikke fokusere på dem allesammen (modstrider)
+	* og hvordan man sikre kvaliteten af produktet
 
-* hvor dan sikre man så kvalitet?
-	* det gør man at planlægge hvordan og hvornår man skal lave verifikation og validering
+* hvordan sikre man så kvalitet?
+	* det gør man ved at planlægge hvordan og hvornår man skal lave verifikation og validering af produktet 
+	* aka. quality management 
 
-* verifikation er om det produkt der bliver lavet overholder alle krav specifikationerne 
-* og validering er om produktet er "fit for use" altså om produktet svare til kundens forventninger 
+* verifikation er om produktet overholder krav specifikationerne 
+* og validering handler om produktet er "fit for use" 
+	* altså om produktet svare til kundens forventninger 
 
 * Quality management består af 
 	* Quality Assurance: Planlæg design processer der undgår dårlig kvalitet

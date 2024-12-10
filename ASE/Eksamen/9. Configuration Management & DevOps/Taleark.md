@@ -5,7 +5,7 @@
 	* CM er særligt godt til at håndtere konfigurationer og ændringer via politikker, processer og værktøjer. Nødvendigt for at holde styr på ændringer og inkorporeringer af komponentversioner.
 	* Særligt brugbart til større teams, der måske arbejder fra flere lokationer, da det hjælper hele teamet til at have adgang til nødvendig data og information.
 
-* configurations management handler om hvordan man 
+* configuration management handler om hvordan man 
 	* *change management*: handler om hvordan kontrollere og koordinere ændringer i software (fra kunden/udvikler) og beregne ændrings pris og gavnligheden. til sidst skal det så bestemmes om og hvornår ændring skal tilføjes.
 	* laver *version management/control*: altså hvordan man håndtere at  to eller flere personer arbejder på den samme fil
 		* pessimistisk: file locking
